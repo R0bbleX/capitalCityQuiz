@@ -1,0 +1,50 @@
+.jumbotron {
+    margin-top: 12vh;
+}
+.btn {
+    margin-top: 10px;
+}
+
+#mainHeading {
+    font-size: 5vh;
+    text-align: center;
+    
+}
+
+#btnRow {
+     display:inline-block;
+     text-align: center;
+     width: 100%;
+     margin-top: 10vh;
+   
+}
+
+#section1 {
+    display:block;
+    
+}
+
+#section2 {
+    display: none;
+    height: 100vh;
+    width: 100vw;
+}
+
+#startBtn {
+    margin-left:65vw;
+    width: 20vw;
+    margin-top: 20vh;
+    
+   
+}
+
+#leaderboard {
+    margin-left: 10vw;
+    
+}
+
+body {
+    background-image: url("globe-2371898_1920.jpg");
+    background-size: cover;
+    
+}
